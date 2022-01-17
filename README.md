@@ -5,7 +5,7 @@ Here is the Medium blog post I have written: http://www.medium.com
 
 
 ## Table of Contents
-1. [Project Motivation](##Project Motivation)
+1. [Project Motivation](#Project-Motivation)
 2. File Descriptions
 3. Results
 
