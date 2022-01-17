@@ -4,17 +4,13 @@ Medium Blog Post
 Here is the Medium blog post I have written: 
 
 Table of Contents
-Installation
 Project Motivation
 File Descriptions
 Results
-Licensing, Authors, and Acknowledgements
 
-Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 Project Motivation
-This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
+This project is part of Udacity Data Scientist Nanodegree Program.
 
 I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Seattle, WA. The orijinal dataset can be found here: https://www.kaggle.com/airbnb/seattle
 
@@ -34,11 +30,6 @@ I use Python3. Here are the libraries I used in my Jupyter Notebook:
 Numpy
 Pandas
 Sklearn
-Seaborn
 matplotlib.pyplot
+Seaborn
 Collections
-Math
-
-
-Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
