@@ -5,9 +5,10 @@ Here is the Medium blog post I have written: http://www.medium.com
 
 
 ## Table of Contents
-1. [Project Motivation](##Project-Motivation)
-2. File Descriptions
-3. Results
+1. [Project Motivation](#Project-Motivation)
+2. [File Descriptions](#File-Descriptions)
+3. [Results](#Results)
+4. [Libraries](#Libraries)
 
 
 ## Project Motivation
