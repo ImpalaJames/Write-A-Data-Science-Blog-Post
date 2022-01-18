@@ -12,16 +12,21 @@ Here is the Medium blog post I have written: http://www.medium.com
 
 
 ## Project Motivation
-This project is part of Udacity Data Scientist Nanodegree Program.
+This project is included as part of the Udacity Data Scientist Nanodegree Program.
 
-I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside initiative, the dataset describes the listing activities of homestays in Seattle, WA. The orijinal dataset can be found here: https://www.kaggle.com/airbnb/seattle
+Boston Airbnb Dataset is analyzed in this project. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Boston, MA. The original dataset can be found here: https://www.kaggle.com/airbnb/boston
 
-This project focuses on answering following questions: “What are the most common amenities in the listings?” "What attracts the guests most for renting a property?" “What are the most influencial features of the dataset to estimate the price of a listing?” “What is the impact of listings' proximity to Seattle Downtown in terms of price?
+For this project, I was interested in using the data to better understand: 
+1. What are the most common amenities in the listings?
+2. What attracts the guests most for renting a property?
+3. What are the most influencial features of the dataset to estimate the price of a listing?
+4. What is the impact of listings' proximity to Seattle Downtown in terms of price?
 
 ## File Descriptions
-Seattle Airbnb Dataset.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
+1. Original dataset listings.csv  in csv format
+2. Boston Airbnb Dataset.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 
-listings.csv Original dataset in csv format
+
 
 ## Results
 The main findings of the code can be found at the post available here.
